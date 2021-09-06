@@ -45,5 +45,3 @@ Marque esse projeto com uma estrela 🌟
 ## Créditos ao Layout <3
 
 - O Layout foi adaptado a partir do projeto do brasileiro [Leonardo Santo](https://github.com/leoespsanto) disponibilizado no [codepen](https://codepen.io/leoespsanto/pen/KZMMKG).
-
-back 34min
